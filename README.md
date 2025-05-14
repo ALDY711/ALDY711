@@ -1,8 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://telegra.ph/file/978bef9aedcae0c3eb7a5.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
-</div>
-
 ## Hi there, I'm ALDY 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
