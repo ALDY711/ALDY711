@@ -1,6 +1,7 @@
 ## Hi there, I'm ALDY 👋
 ## yvyvvygyvyvvyybybby
 [![GitHub Streak](https://streak-stats.demolab.com?user=ALDY711&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ## ggfgrffreee
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
