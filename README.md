@@ -1,5 +1,6 @@
 ## Hi there, I'm ALDY 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=ALDY711&theme=dark)](https://git.io/streak-stats)
+
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
 ```csharp
