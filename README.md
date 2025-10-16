@@ -7,7 +7,7 @@
 -------------------------
 Hostname: ALDY
 Location: Indonesia, Jawa Timur, Surabaya
-Domain: aldyprofile.xyz
+Domain: aldyy.my.id
 -------------------------
 ```
 ![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
